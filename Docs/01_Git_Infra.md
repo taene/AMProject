@@ -30,7 +30,7 @@ rm -rf .git
 git init
 git branch -M main
 
-# 2. 무시 필터링 적용 및 완벽한 첫 스냅샷 생성
+# 2. gitignore 적용 및 완벽한 첫 스냅샷 생성
 git add .
 git commit -m "Initial commit: Base Unreal project setup"
 
