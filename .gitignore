@@ -85,8 +85,9 @@ DerivedDataCache/*
 /Plugins/Developer/RiderLink
 *.sln.DotSettings.user
 
-# GG
+# AMProject
 Content/_ThirdParty/*
 Plugins/**/_ThirdParty/*
-Plugins/LyraExampleContent/*
-Plugins/GameFeatures/ShooterMaps/*
+
+# AI custom context files (local-only, not shared via VCS)
+CLAUDE.md
