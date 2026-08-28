@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "AMAssetManager.h"
+#include "System/AMAssetManager.h"
 #include "AMProject/AMLogChannels.h"
 
 UAMAssetManager::UAMAssetManager()
